@@ -12,6 +12,7 @@ license = { text = "MIT" }
 
 dependencies = [
     "numpy",
+    "torch>=2.9.1",
 ]
 
 [tool.setuptools]
